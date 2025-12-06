@@ -24,7 +24,7 @@ A fast, single-operation calculator built for the command line. This project dem
 
     # Verbose operation:
     python cl_calc.py 100 / 0 -v
-    ``` 
+    
     # Example of invalid input handled by argparse:
     python cl_calc.py 50 power 2
     ```
