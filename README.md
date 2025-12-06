@@ -1,4 +1,4 @@
-# 🚀 Python CLI Calculator (Argparse)
+# Python CLI Calculator (Argparse)
 
 A fast, single-operation calculator built for the command line. This project demonstrates strong proficiency in **command-line argument parsing** and robust input validation using Python's built-in `argparse` module.
 
